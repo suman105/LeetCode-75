@@ -1,33 +1,56 @@
-# LeetCode 75 - Solution Repository
+# **LeetCode 75 - C++ Solution Repository** 🚀  
 
-Welcome to my **LeetCode 75** repository! 🚀 This repository contains my solutions to the **LeetCode 75** problems, implemented in **C++** with optimal approaches and explanations.
+Welcome to my **LeetCode 75** solution repository! This repository contains well-structured, optimized **C++** solutions to all **LeetCode 75** problems, along with detailed explanations for each problem to enhance your understanding.
 
-## 📝 About LeetCode 75
-LeetCode 75 is a curated list of essential coding problems that help build strong problem-solving skills for technical interviews and competitive programming.
+## 📌 **About LeetCode 75** 
+**LeetCode 75** is a curated list of essential coding problems designed to improve problem-solving skills for **technical interviews, competitive programming, and coding assessments**. These problems cover a broad spectrum of topics that help you master **data structures**, **algorithms**, and their applications.
 
-## 📌 Repository Structure
-Each problem is categorized based on topics such as **Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, Bit Manipulation, and more**.
 
+## 📂 **Repository Structure**  
+The solutions are categorized based on topics, making it easy to navigate:  
+
+- **Arrays & Strings**  
+- **Linked Lists**  
+- **Stacks & Queues**  
+- **Trees & Graphs**  
+- **Dynamic Programming**  
+- **Bit Manipulation**  
+- **Two Pointers, Sliding Window**, and more 
 
 ## 📂 LeetCode 75 Problem List
 
 I have solved all **LeetCode 75** problems, and they are organized into different categories. You can find solutions in the respective folders.
 
-## 🔥 How to Clone the Repository
+## 🔥 **Getting Started**  
 
-If you want to have a local copy of this repository, you can easily clone it using Git:
+### Clone the Repository  
+To get a local copy, use the following command:  
 
-
-# Clone the repository
+```sh
 git clone https://github.com/suman105/LeetCode_75.git
-
-# Navigate to the project folder
 cd LeetCode_75
+```
 
-## 📌 How to Contribute
-Feel free to fork this repository, suggest improvements, or add alternative solutions! Contributions are always welcome. 😊
+## **Prerequisites**
+Ensure you have C++ and Git installed on your system. You can follow the installation guides for C++ and Git.
 
-## ⭐ Show Some Support
-If you find this repository helpful, consider giving it a star⭐ on GitHub. It motivates me to keep improving! 🚀
+## Running the Code
+You can run any solution using your preferred IDE or by compiling it from the command line using:
+
+```sh
+g++ <filename>.cpp -o <outputfile>
+./<outputfile>
+```
+
+## 🤝 **Contributions**
+Contributions are welcome! Feel free to fork this repository, suggest improvements, or add alternative solutions. To contribute:
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Commit your changes (git commit -am 'Add new solution').
+4. Push to your fork (git push origin feature-branch).
+5. Open a pull request.
+
+## ⭐ **Show Some Support**
+If you find this repository helpful, consider giving it a star⭐ on GitHub. Your support motivates me to continue improving and adding more solutions! 🚀
 
 Happy Coding! 💻🎯
