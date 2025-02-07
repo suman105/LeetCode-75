@@ -17,7 +17,7 @@ The solutions are categorized based on topics, making it easy to navigate:
 - **Bit Manipulation**  
 - **Two Pointers, Sliding Window**, and more 
 
-## 📂 LeetCode 75 Problem List
+## 📑 LeetCode 75 Problem List
 
 I have solved all **LeetCode 75** problems, and they are organized into different categories. You can find solutions in the respective folders.
 
@@ -31,10 +31,10 @@ git clone https://github.com/suman105/LeetCode_75.git
 cd LeetCode_75
 ```
 
-## **Prerequisites**
-Ensure you have C++ and Git installed on your system. You can follow the installation guides for C++ and Git.
+## ⚙️ **Prerequisites**
+Ensure you have **[C++](https://www.learncpp.com/)** and **[Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)** installed on your system. You can follow the installation guides for **C++** and **Git**.
 
-## Running the Code
+## 🖥️  **Running the Code**
 You can run any solution using your preferred IDE or by compiling it from the command line using:
 
 ```sh
@@ -45,9 +45,15 @@ g++ <filename>.cpp -o <outputfile>
 ## 🤝 **Contributions**
 Contributions are welcome! Feel free to fork this repository, suggest improvements, or add alternative solutions. To contribute:
 1. Fork the repository.
-2. Create a new branch (git checkout -b feature-branch).
-3. Commit your changes (git commit -am 'Add new solution').
-4. Push to your fork (git push origin feature-branch).
+2. Create a new branch.
+   ```sh
+   git checkout -b feature-branch
+3. Commit your changes.
+   ```sh
+   git commit -am 'Add new solution'
+4. Push to your fork.
+   ```sh
+   git push origin feature-branch
 5. Open a pull request.
 
 ## ⭐ **Show Some Support**
