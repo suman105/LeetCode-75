@@ -27,8 +27,8 @@ I have solved all **LeetCode 75** problems, and they are organized into differen
 To get a local copy, use the following command:  
 
 ```sh
-git clone https://github.com/suman105/LeetCode_75.git
-cd LeetCode_75
+git clone https://github.com/suman105/LeetCode-75.git
+cd LeetCode-75
 ```
 
 ## ⚙️ **Prerequisites**
